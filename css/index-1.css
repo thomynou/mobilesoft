@@ -311,6 +311,17 @@ section.about-2{
   margin-right: 5px;
 }
 
+.gras{
+  font-weight:bold;  
+}
+
+
+.vert
+{
+    color:#92c83e;
+    text-shadow: 2px 4px 15px black;
+    font-weight: 900;
+}
 /*--   Call to Action Responsive   --*/
 @media(max-width:400px) {
   .call-to-action-1 .btn{
